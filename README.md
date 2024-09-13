@@ -76,7 +76,7 @@ console.log('map entry', book.entries.get(15551234));
 
 ### Pros
 - **Fast Lookups**: Average-case time complexity for lookups, insertions, and deletions is O(1) due to hashing.
-- **Direct Access**: Ideal for scenarios where you need to access elements directly using unique keys (e.g., phone numbers).
+- **Direct Access**: Ideal for scenarios where you need to access elements directly using unique keys ( phone numbers).
 - **Dynamic Size**: Can handle dynamic and large datasets efficiently.
 
 ### Cons
