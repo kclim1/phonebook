@@ -6,6 +6,8 @@ The Phone Book Application is a console-based tool for managing contact informat
 
 ## Usage
 - **Clone:** Simply git clone SSH and run the app via console.log statements. 
+- **Note:** Running all functions at once in app.js may cause unexpected behaviours. It is best to comment out the functions that are not in use. Also, please run the merge sort on the array first before using binary search. 
+
 
 ### Code Explanation
 

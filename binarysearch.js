@@ -21,4 +21,5 @@ function binarySearch(array, target, entries) {
 }
 
 
+
 module.exports = binarySearch
