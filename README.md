@@ -85,9 +85,9 @@ console.log('map entry', book.entries.get(15551234));
 - **No Prefix Matching**: Cannot perform prefix searches or partial matches.
 
 ### Time Complexity
-- **Lookup**: \(O(1)\) average case, \(O(n)\) worst case (in case of hash collisions).
-- **Insertion**: \(O(1)\) average case, \(O(n)\) worst case.
-- **Deletion**: \(O(1)\) average case, \(O(n)\) worst case.
+- **Lookup**: O(1) average case, O(n) worst case (in case of hash collisions).
+- **Insertion**: O(1)  average case, O(n) worst case.
+- **Deletion**: O(1)  average case, O(n) worst case.
 
 ## Binary Search Trees (BSTs)
 
